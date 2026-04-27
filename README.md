@@ -78,5 +78,4 @@ Rotate your API key if it gets accidentally exposed
 Adhan Akram — AI & Machine Learning Developer
 
 📧 sardaradhan85@gmail.com
-🔗 LinkedIn Profile
-💻 GitHub
+
